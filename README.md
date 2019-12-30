@@ -4,7 +4,7 @@
 
 This project is the Fourth project of the _Deep Learning nanodegree_, schooled by **Udacity, Inc.** ([https://eu.udacity.com](https://eu.udacity.com/)), a for-profit educational organization offering massive open online courses.
 
-The project objective is to create and train a Deep Learning Model using Generative Adverserial Network which can transform and generate realistic-looking human faces from random noise given as input.
+The project objective is to create and train a Deep Learning Model using Generative Adversarial Network which can transform and generate realistic-looking human faces from random noise given as input.
 
 In this repository, you will find the following files and folders:
 
